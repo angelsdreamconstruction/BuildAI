@@ -23,8 +23,3 @@ def genetic_algorithm(pop_size=100, generations=50, num_rooms=5):
 # Run Example
 best_layout, total_area, total_cost = genetic_algorithm()
 print(f"Optimized Rooms: {best_layout}\nTotal Area: {total_area}\nTotal Cost: ${total_cost}")
-
-
-Completed
-·
-GROK 4 HEAVY
